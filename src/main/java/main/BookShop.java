@@ -52,7 +52,7 @@ public class BookShop{
         cn.setName(s);
         
         c1.finalizeCart(cn.getName());
-        System.out.println("-------------------------------------------------");
+        System.out.println("Checkout? Enter your Name:");
         // System.out.println("Checkout? Enter your Name:");
 
 
