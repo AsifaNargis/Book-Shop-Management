@@ -12,7 +12,7 @@ public class Cart extends Bill{
     public int noOfItems=0;
     public void updateCart(Item a,int q ){
       //write your code here
-      //------------
+      //------------//
       //------------
     	inCart.add(a);
     	quant.add(q);
